@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView secondsDisplay;
 
     public MainActivity(){
-        Log.d("INFO","DENTRO DEL METODO CONSTRUCTOR");
+        Log.d("INFO","DENTRO DEL METODO de CONSTRUCTOR");
     }
 
     static {

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Classic Cars</string>
+    <string name="mainImagenDescription" />
+    <string name="tituloApp">DC COMICS</string>
+    <string name="btnNoMeGusta">No me gusta</string>
+    <string name="btnMeGusta">Me gusta</string>
+</resources>
